@@ -6,10 +6,10 @@ Examles:
 ![Interpolacja](https://github.com/PatrykUtkala/Numerical-Methods/blob/540957239c70ed1e7f55eeeaf81e9f0dff92c50d/screens/Interpolacja.png)
 
 * Kalman filter
-![GitHub Logo](https://github.com/PatrykUtkala/Numerical-Methods/blob/540957239c70ed1e7f55eeeaf81e9f0dff92c50d/screens/Interpolacja.png)
+![Filtr_Kalmana](screens/Filtr_Kalmana.png)
 
 * Runge-Kutty method
-![GitHub Logo](https://github.com/PatrykUtkala/Numerical-Methods/blob/540957239c70ed1e7f55eeeaf81e9f0dff92c50d/screens/Interpolacja.png)
+![Runge-Kutty](https://github.com/PatrykUtkala/Numerical-Methods/blob/540957239c70ed1e7f55eeeaf81e9f0dff92c50d/screens/Runge-Kutty.png)
 
 * Newton Raphson method
-![GitHub Logo](https://github.com/PatrykUtkala/Numerical-Methods/blob/540957239c70ed1e7f55eeeaf81e9f0dff92c50d/screens/Interpolacja.png)
+![Rozwiązanie_iteracyjne](screens/Rozwiązanie_iteracyjne.png)
